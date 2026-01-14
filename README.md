@@ -119,14 +119,14 @@ This portfolio demonstrates alignment with:
 
 ## About Me
 
-[Your name] | Aspiring AI Governance Professional
+Ladi Lemboye | AI Governance Professional
 
 I'm building expertise in AI risk management and regulatory compliance. This portfolio represents hands-on work with real governance frameworks and tools, prepared using fictional scenarios to demonstrate practical skills.
 
 **Currently seeking:** AI Governance Analyst, AI Risk Analyst, or Responsible AI roles
 
-📧 [Your email]  
-💼 [LinkedIn profile]  
+📧 [Ladi20029@gmail.com]
+💼 [https://www.linkedin.com/in/ladi-lemboye-85910b208/]
 📍 Texas, USA
 
 ---
