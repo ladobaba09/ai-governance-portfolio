@@ -125,8 +125,8 @@ I'm building expertise in AI risk management and regulatory compliance. This por
 
 **Currently seeking:** AI Governance Analyst, AI Risk Analyst, or Responsible AI roles
 
-📧 [Ladi20029@gmail.com]
-💼 [https://www.linkedin.com/in/ladi-lemboye-85910b208/]
+📧 Ladi20029@gmail.com
+💼 https://www.linkedin.com/in/ladi-lemboye-85910b208/
 📍 Texas, USA
 
 ---
